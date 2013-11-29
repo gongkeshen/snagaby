@@ -22,6 +22,15 @@ h2 {
         color: black;
 }
 
+
+h3 {
+        font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+        font-weight: 200;
+        font-size: 20px;
+        color: black;
+}
+
+
 .h5-custom {
 	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
 	font-weight: 500;
