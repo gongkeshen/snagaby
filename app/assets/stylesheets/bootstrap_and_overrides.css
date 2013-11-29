@@ -6,7 +6,7 @@
   =require twitter-bootstrap-static/fontawesome
   */
 
-  .h1-custom {
+.h1-custom {
         font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
         font-weight: 100;
         font-size: 64px;
@@ -20,4 +20,11 @@ h2 {
         font-weight: 200;
         font-size: 36px;
         color: black;
+}
+
+.h5-custom {
+	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-weight: 500;
+	font-size:; 14px;
+	color: black;
 }
